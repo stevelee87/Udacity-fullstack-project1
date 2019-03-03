@@ -16,3 +16,5 @@ The program you write in this project will run from the command line. It won't t
      _# If it is your first time runing this code, then please discomment the next line_
      _# create_table_views(DBNAME)_ this will create SQL views in order to perform the third question of the project.
   - **README:** This file you are reading right now.
+  - **output.txt:** This file contains a sample of the _project1.py_ output.
+  - **news.sql:** Although this file is necessary to create the PostgreSQL role _news_, we do not uploaded it into the repository, because it is not necessarely to meet the rubric's project specifications.
