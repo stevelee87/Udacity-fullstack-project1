@@ -12,7 +12,7 @@ The program you write in this project will run from the command line. It won't t
 
 1) Python version - 3.6.8
 2) File structure:
-  - *project1.py:* Main code. Please note, if it is the first time you are running this, you may uncomment the line 83. Please note: 
+  - **project1.py:** Main code. Please note, if it is the first time you are running this, you may uncomment the line 83. Please note: 
      _# If it is your first time runing this code, then please discomment the next line_
      _# create_table_views(DBNAME)_ this will create SQL views in order to perform the third question of the project.
-  - *README:* This file you are reading right now.
+  - **README:** This file you are reading right now.
